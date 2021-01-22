@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: k8ty-melvin
-        image: ghcr.io/k8ty-app/melvin:4523fd0a
+        image: ghcr.io/k8ty-app/melvin:60e73a73
         imagePullPolicy: Always
         stdin: true
         tty: true
